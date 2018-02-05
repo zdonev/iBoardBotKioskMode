@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="iBoardBotKioskMode.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BaseURI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://ibbapp.jjrobots.com/</Value>
+    </Setting>
+    <Setting Name="DrawingTimerInSeconds" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">120</Value>
+    </Setting>
+    <Setting Name="APPID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yourappid</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

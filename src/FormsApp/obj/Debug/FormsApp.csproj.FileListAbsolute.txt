@@ -1,0 +1,9 @@
+C:\Temp\1\__\iBoardBotKioskMode\src\FormsApp\bin\Debug\FormsApp.exe.config
+C:\Temp\1\__\iBoardBotKioskMode\src\FormsApp\bin\Debug\FormsApp.exe
+C:\Temp\1\__\iBoardBotKioskMode\src\FormsApp\bin\Debug\FormsApp.pdb
+C:\Temp\1\__\iBoardBotKioskMode\src\FormsApp\obj\Debug\FormsApp.csprojResolveAssemblyReference.cache
+C:\Temp\1\__\iBoardBotKioskMode\src\FormsApp\obj\Debug\FormsApp.ModalForm.resources
+C:\Temp\1\__\iBoardBotKioskMode\src\FormsApp\obj\Debug\FormsApp.Properties.Resources.resources
+C:\Temp\1\__\iBoardBotKioskMode\src\FormsApp\obj\Debug\FormsApp.csproj.GenerateResource.Cache
+C:\Temp\1\__\iBoardBotKioskMode\src\FormsApp\obj\Debug\FormsApp.exe
+C:\Temp\1\__\iBoardBotKioskMode\src\FormsApp\obj\Debug\FormsApp.pdb
